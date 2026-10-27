@@ -1,0 +1,781 @@
+ RRRRRRRRR     IIIII   SSSSSSSSS   KKK      KKK    OOOOO    IIIII DDDDDDDDD
+ RRRRRRRRRRR    III   SSSSSSSSSSS  KKK      KKK   OOOOOOO    III  DDDDDDDDDD
+ RRR     RRRR   III  SSSS      SSS KKK      KKK  OOO   OOO   III  DDD    DDDD
+ RRR      RRRR  III  SSS       SSS KKK      KKK OOO     OOO  III  DDD     DDD
+ RRR      RRRR  III  SSS           KKK    KKKK  OOO     OOO  III  DDD     DDD
+ RRR     RRRR   III  SSSS          KKK   KKKK   OOO     OOO  III  DDD     DDD
+ RRR    RRRR    III   SSSSSSSSSSS  KKKKKKKK     OOO     OOO  III  DDD     DDD
+ RRRRRRRRRR     III     SSSSSSSSSS KKKKKKKK     OOO     OOO  III  DDD     DDD
+ RRRRRRRRR      III           SSSS KKK   KKKK   OOO     OOO  III  DDD     DDD
+ RRR    RRRR    III            SSS KKK    KKKK  OOO     OOO  III  DDD     DDD
+ RRR     RRRR   III  SSS       SSS KKK     KKKK OOO     OOO  III  DDD     DDD
+ RRR      RRRR  III  SSS       SSS KKK      KKK OOO     OOO  III  DDD     DDD
+ RRR       RRR  III  SSSS     SSSS KKK      KKK  OOO   OOO   III  DDD    DDDD
+ RRR       RRR  III   SSSSSSSSSSS  KKK      KKK   OOOOOOO    III  DDDDDDDDDD
+ RRR       RRR IIIII   SSSSSSSSS   KKK      KKK    OOOOO    IIIII DDDDDDDDD
+
+
+
+
+                                  3333            00000    
+                                33333333         0000000 
+                                333  333        000   000
+                    VVV   VVV       3333        000   000
+                    VVV   VVV      3333    **   000   000
+                    VVVV VVVV       3333   **   000   000
+                     VVVVVVV    333  333        000   000
+                      VVVVV     33333333         0000000
+                       VVV        3333            00000
+
+
+
+
+
+                                   RISKOID
+                                  ---------
+
+
+                              Copyright (C) 1993-1998
+                           Macrohead and Microbrain
+
+                             ALL RIGHTS RESERVED
+
+
+
+
+              This documentation was last updated on September 15, 1998.
+
+
+
+
+
+
+                                   CONTENTS
+                                  ----------
+
+ 1. Introduction
+ 2. Starting the Game
+ 3. Game Overview
+ 4. Starting the Game
+    4.1 Game Options
+    4.2 Missions Revealed
+
+ 5. Reading the Map
+ 6. Side Panel Buttons
+
+ 7. Phases the Game
+ 8. Reinforcement
+ 9. Combat
+10. Redeployment
+11. The Magician
+
+12. Computer Difficulty Levels
+13. Helpful Hints
+
+14. Release History
+15. Shareware Notice
+      Credits
+      Legal Notice
+
+
+
+
+
+                               1. Introduction
+
+
+Riskoid is a "conquer the map" type of game.  In each game you play, you will
+be given a mission to carry out.  This mission typically involves conquering a
+part of the map, the whole map, or destroying another player's forces.  There
+are many different missions, each requiring different tactics, with no one
+tactic being the correct one.
+
+But by stealth, or brute force you must seek out the completion of your
+mission, to the detriment of others - there can be only one winner!
+
+
+
+
+
+                               2. Installation
+
+Each version of Riskoid may require a certain type of installation before it
+can actually be run.
+
+On the Amiga version, this will involve copying a file into your LIBS:
+directory.
+
+On the IBM version, no additional installation is required.
+
+
+
+
+
+                               3. Game Overview
+
+The game is played with a turn system.  That is, only one player at a time has
+their go.  When they have finished, the next player then has their turn and so
+on.  Once the last player has had their turn, the first player then has their
+turn.
+
+The game continues on like this until one player has completed their mission.
+This could happen very quickly, or take a large number of turns.
+
+Each turn consists of a number of phases, which occur in order during each
+turn.  During each phase, a specific action is performed.  These phases are
+explained in greater detail below.
+
+
+
+
+
+                             4. Starting the Game
+
+After the game has loaded, the RISKOID logo is displayed and additional data
+files are read from the disk.  When this is complete press the Continue button
+on the screen.
+
+You will then be prompted to enter the number of people playing the game.  You
+may have between 2 and 6 players.  Any or all of these players may be computer
+controlled.  If you enter an invalid number, you will be prompted to try
+again.
+
+Once this is complete, enter in the relevant names of the players.  Names must
+be between 2 and 18 characters.  Names outside this range will not be
+accepted.  To enter a name, click with the mouse in on of the large boxes.
+
+If you wish to enter the next name in the list after typing in a name, press
+the TAB key, rather than RETURN to continue.  You will then be prompted to
+enter the next name.
+
+To speed up entry of computer player's names, after the human player's names
+have been entered, you can press `Q' and the computer player's names will be
+inputted automatically.  Repeatedly pressing `Q' will bring up new names.
+Pressing `W' fills the names in as Computer 1 etc.
+
+Beside each of the large boxes are two smaller boxes.  The first box denoted
+whether or not that player is to be controlled by the computer.  Any number
+may be controlled by the computer - from none to all.
+
+There are four levels of Computer control that can be selected.  Each Level is
+detailed later.  In addition, there is a Random option, whereby the difficulty
+level of the Computer Player is randomly determined, in order to add another
+element of chance to the game.
+
+The other box indicates the colour of that particular player.  Clicking on the
+box will cycle that colour to the next available colour.  There are six
+colours to choose from, so if there are six players, you won't be able to
+change your colour.
+
+The colour of each player is very important, so be sure to chose a colour you
+like!  All messages that relate to a particular player will be in that
+player's colour.
+
+Once you are satisfied with the number of players and the names of the
+players, click the Continue button.
+
+On the left of the Screen is a button labelled `Game Options'.  Pressing this
+button will enable you to change the parameters for the game.  For details,
+see Section 4.1 below.
+
+
+
+                               4.1 Game Options
+
+The next screen is a list of options.  To change an options, click on the
+options description.  The description on the right will then be toggled.
+
+Note :  You can't have Missions AND Play to the Death options active at the
+same time.
+
+
+The eight options are listed below :
+
+1. Play the Missions
+
+If active, each player will be allocated a secret mission.  Each mission is
+approximately as difficult as the others.  The game will then be complete when
+a player completes their mission.
+
+If not used, each player's mission is the same - to conquer 24 territories.
+
+If, Option 2 is used, the missions cannot be used (see below)
+
+
+2. Play Until One Person Kills ALL Others
+
+If active, each player's mission is to conquer the entire map, that is,
+destroy all the other player's units.  This options results in a longer game
+and is very often used to make a game harder and more exciting.
+
+This option cannot be used in conjunction with option 1.
+
+
+3. Fast Combat (No Dice Rolling)
+
+If this option is inactive, whenever a battle occurs, the dice rolls will be
+displayed on the screen.  You are then able to see EXACTLY what is happening
+with a battle.  You are also given the option of terminating the battle if you
+are doing poorly.
+
+If active, the dice rolls are not displayed.  You are just told whether you
+have won or lost.  As a result, the game takes a _LOT_ less time to play.
+
+This feature is present in order to preserve the board-game origins of
+Riskoid.
+
+
+4. Quick Computer Players
+
+This is another option to speed up the flow of the game.  When this option is
+enabled, no messages are displayed that relate to a computer player's turn,
+unless they affect a human player.  This way, the game is greatly speeded up
+and you no longer have to repeatedly press the mouse buttons.
+
+
+5. Equal Reinforcements In The First Turn
+
+Normally, the number of reinforcements that a player receives is solely
+determined by their number of countries held.  This often means that the
+player who goes first is able to launch a major offensive and dramatically
+reduce the number of reinforcements other players receive in their first turn.
+This means that very often, a player is out of contention for the game before
+they have even had a turn!  To overcome this inequality, this option gives
+each player an equal number of reinforcements in the first turn, which may be
+modified for continents held (see below)
+
+
+6. Random Player Order
+
+If selected, the order of the players is randomly selected.  That is, the
+player who goes first is not always the first name entered in.
+
+
+7. Give Progress Updates
+
+If selected, at the end of each player's turn, you will be told what
+percentage of your mission has been completed, as well as the number of
+territories you currently occupy.  This is useful in gauging how close other
+players are to completing their missions.
+
+If you don't want this option, no progress report will be given.
+
+Note : If the rapid computer players option is active, no progress reports
+will be given.  This speeds up the game as well.
+
+
+8. Use the Magician
+
+If selected, each turn you may have the chance of sending a messenger to the
+Magician to ask for help.  The Magician can give both good and bad results, or
+ignore you completely.
+
+This option makes the game more exciting and enables players who otherwise may
+lose the game to have a fighting chance.
+
+
+9. Choose Your Own Countries At The Start
+
+When active, each player takes turns in selecting their initial countries.  If
+inactive, the allocation is random.
+
+This option increases the difficulty of the game, as you can no longer blame a
+poor starting position for doing badly.
+
+
+
+                            4.2 Missions Revealed
+
+If you have selected to use the missions, each player in turn will be
+allocated a secret mission.  While this is being done, the other players
+should leave the room or take steps to ensure that they do no see the other
+player's missions.
+
+The 42 territories are then distributed amongst the players as evenly as
+possible, given the number of players.
+
+
+
+
+
+                              5. Reading the Map
+
+In order to be able to successfully play RISKOID, you must be able to
+interpret the symbols on the map.  This should be fairly easy.
+
+The colour of each country denotes the owner of that country.  So, if a
+country is filled in yellow, it is owned by the yellow player.
+
+Also in each territory in a box containing a number.  This is the number of
+units that are in that territory.  This 47 indicates that that particular
+territory has 47 units in it.
+
+If you put the two together, you can see that the territory is owned by the
+yellow player and has 47 units in it.
+
+If a territory contains more than 99 units, the first digit will be an
+asterisk (*), and the second digit is the number of HUNDRED units in the
+territory.  Thus, *6 means that a territory has between 600 and 699 units in
+it.  But, as it is very rare for a territory to have more than 99 units in it,
+this notation will rarely be seen.  If a country has more than 999 units in it
+(which is VERY unlikely), the display will read "**".
+
+The map is also divided into continents.  The divisions between the continents
+are obvious, except for the join between Asia/Africa/Europe.  To assist in
+distinguishing between the continents, a thick black line runs along the
+border.
+
+Which continent a territory is on is important for a number of reasons.
+Firstly, a large number of missions specify the capture of a specific
+continent, which translates to capturing all territories of a specific colour.
+Secondly, in the reinforcement stage (outlined below), if an entire continent
+is owned by a player, they receive a number of bonus reinforcement units.
+
+Details of the continents as set out in the table below:
+
++---------------+-------+----------+
+| Continent     | Bonus | Num Terr |
++---------------+-------+----------+
+| Africa        |   3   |    6     |
+| Asia          |   7   |   12     |
+| Australia     |   2   |    4     |
+| Europe        |   5   |    7     |
+| North America |   5   |    8     |
+| South America |   2   |    4     |
++---------------+-------+----------+
+
+In all cases of interaction between 2 countries, they must adjoin.  There are
+two ways for them to adjoin :  by their borders directly touching, and by
+there being a line between the two countries.  Thus, Alaska adjoins Kamchatka
+and Brazil adjoins North Africa etc.
+
+
+
+
+
+                            6. Side Panel Buttons
+
+Since v2.0, there are 3 buttons present on the left hand side of the map.
+These buttons activate many options:
+
+About : Pressing this button brings up information about the authors, version
+  and where to send your shareware fee (it's very important to do this...)
+
+  Keyboard equivalent : '?'
+
+
+Options : This allows you to shange several game options:
+
+  Change Control : This button allows you to change whether a player is
+    computer or human controlled.  Press on the relevant player button and
+    that player's option will change.
+    Note : you can't change your own option during your turn.
+
+  Mission Info : Use this option when you are using the missions, and have
+    forgotten what yours was!  By pressing this button during your turn, your
+    mission will be redisplayed.
+
+  * Toggle Sound : If you have an Amiga, or an IBM with sound support, this
+     option will toggle the sound effects on and off.  The current sound status
+     is displayed beside the button
+
+  * Toggle Music : On the Amiga, this button allows you to turn the background
+     theme music on and off (where available).
+
+
+Quit : Pressing this button will enable you to quit out of Riskoid back to DOS.
+
+  Keyboard equivalent : 'ESC'
+
+
+
+
+
+                              7. Phases the Game
+
+The game is played in four phases :  Reinforcement, Combat, Redeployment and
+the Magician.  After a player has completed all his phases, it is the next
+player's turn.  Play continues until at the end of a player's turn their
+mission is complete.
+
+If the Magician option is not active, the Magician phase is absent.
+
+Note :  Victory for a player is only declared at the end of their turn.  For
+example, if your mission is to kill the Red player, but before you have your
+turn another player kills the Red Player, you will not automatically win at
+that point.  You must wait until the end of your turn before you win!
+
+
+
+
+
+                               8. Reinforcement
+
+At the start of your turn, you receive a number of reinforcements equal to a
+third of the number of territories you own.  Thus, if you own 14 territories,
+you will receive 4 reinforcements (the number is rounded down).
+
+A minimum of 3 reinforcements is always given.  Thus, if you have 4 or 6
+territories, you will still get 3 reinforcements.
+
+Extra units are given if a complete continent is held by a player.  For the
+numbers see the table above.  Thus, if all of Australia is held, you receive a
+bonus of 2 reinforcements, and if all of Asia is held, you receive a bonus of
+7 reinforcements.
+
+If Equal First Turn Reinforcements Option is active, during the first turn all
+players receive the same base number of reinforcements, modified if continents
+are held.  This is to ensure that the player who goes first does not have a
+huge advantage.
+
+In the top right hand corner of the screen, are boxes, which represent a
+number of units.  By pressing on these boxes, you can change the number of
+units that are put in a territory with each press.  Thus, if you click on the
+'2' button, 2 units will be placed in a territory, instead of the default 1.
+
+In addition, there is a maximum button, which allows you to place all you
+reinforcements on the one territory.
+
+As well as the buttons, you can also use the numeric keys to determine the
+units.  ie pressing '7' will let you put on 7 units at a time.
+
+
+
+
+
+                                  9. Combat
+
+This is by far the most salient part of Riskoid.  True mastery of the game
+lies here!
+
+It is important to note from the start that you can attack as many times as
+you have units to support the attacks - there is no artificial upper limit.
+
+To launch an attack from one territory, it must have at least two unit in it -
+one unit must stay behind to keep the territory.  To attack a territory, the
+target must adjoin the attacking territory and not be owned by the attacking
+player - you can't attack your own forces.
+
+If the Quick Battles option is active, the battle will be resolved.  If not,
+the following procedure will be followed:
+
+You will be prompted for the number of units to attack with.  If the start
+territory has 2 units in it, you may attack with 1 unit.  If it has 3 units in
+it, you may attack with 2 or 1 units.  If it contains 4 or more units, you may
+attack with 3, 2 or 1 units.
+
+In deciding the number of units to attack with, there are 2 strategies to
+consider.  Firstly, by attacking with a large number of units, you increase
+your chances of victory.  On the other hand, the number of men you attack with
+also sets the lower limit on the number of men you must move into the
+defending territory if you win.  In some cases, attacking with only 1 unit
+enables you to take a poorly defended territory, whilst concentrating your
+major offensive in another direction, whilst still using the forces in the one
+territory.
+
+In either case, luck plays a large factor - it is not unheard of for 1 unit to
+withstand the attack of a force of about 10 or 20.  Equally, it is possible to
+destroy a defensive force of 10 or 20 with 1 unit.  It all depends upon the
+dice rolls.
+
+The number of dice the defender rolls is determined by the number of units in
+it.  If it contains 2 or 1 units, 1 die is rolled.  If it contains 3 units, 2
+dice are rolled and if it contains 4 or more units, 3 dice are rolled.
+
+The dice rolls are the next element.  Each player's dice rolls will be
+displayed at the top of the screen.
+
+The attacker's dice appear on the left and the defending dice appear on the
+right.  Both dice are colour coded in the colour of the owner of those
+territories.
+
+The highest die of the attacker is then compared with the highest die of the
+defender.  If the attacker's die is higher, the defender loses a unit.  If the
+defender's die is greater than or equal to the attacker's, the attacker loses
+a unit.
+
+If BOTH sides rolled 2 or more dice, the second highest are then compared as
+above.  The same applies if both players roll 3 dice
+
+Casualties are then removed and the attacker has the option of continuing the
+attack or not.
+
+If the attack is victorious, the attacker moves units into the conquered
+territory.  The minimum number is the number of dice rolled and the maximum is
+the number of units in the territory minus one.  The number is entered in via
+the keyboard, followed by return.  If there is only one possible number that
+would be valid, it is automatically calculated and entered by the computer.
+
+The attacks then continue until all the attacker's men are exhausted, or the
+player decides to stop.
+
+
+Quick Battles
+-------------
+If the Quick Battles Option is selected (see above), this process becomes
+completely automated, and the player is merely informed whether they have won
+the battle or not.  The same rules, however, as still used.  With this option,
+you are not limited by a minimum number of units to move in when you win
+corresponding to the number of attacking units.  Thus, when you win, you need
+only move 1 unit in.
+
+
+When entering the number of units to move into a defeated territory, you can
+use the numeric keys to set the number.
+
+
+
+
+
+                               10. Redeployment
+
+In this round, you have the option of moving units from one territory you own
+to an adjacent territory you own.  Any number may be moved out of the
+territory, provided one is left behind.
+
+The catch is that you can do this only once per turn - so consider it
+carefully.
+
+
+
+
+
+                               11. The Magician
+
+This option will only appear if Supernatural Occurences option is active.
+
+If you have sufficient forces, you may consult the Magician.  The result of
+this consultation will then be shown and the results carried out.  Below are a
+few examples of what can happen:
+
++ You receive a number of bonus reinforcements
++ The Magician gives your territory to some-one else!
++ The Magician gives you some-one else's territory!
+
+
+
+
+
+                        12. Computer Difficulty Levels
+
+The Computer Difficulty Levels are:
+
+Private - Very stupid.  All of its actions are COMPLETELY random.  If it ever
+  does any good, it has nothing to do with skill!
+
+Major - A fair bit smarter than a Private, but it still believes that simple
+  brute force is effective is all situations.  This player tends to like
+  building large forces, then going on a rampage!
+
+Colonel - More intelligent than a Major, this player still prefers the brute
+  force approach, but often keeps forces in reserve and goes for strategic
+  targets.
+
+General - The pinnacle of military genius?  You be the judge.  This player
+  realises the importance of defending strategically important areas, as well
+  as the need to attack when necessary.
+
+Overall, the Computer's Level will determine a Computer Player's style of
+play, but due to the large number of variables in the game, any result is
+still possible!
+
+
+
+
+
+                              13. Helpful Hints
+
+Here are a few hints to improve your game:
+
+* Australia is a useful continent to own :  It provides 2 extra reinforcements
+and is easily held by placing a large defensive force in Indonesia or Siam.
+
+* Whenever possible, try to stop a player from owning a continent - not only
+does it improve their chances of winning, but provides a huge advantage when
+they receive their reinforcements!
+
+* Don't forget that Alaska borders Kamchatka and that Brazil adjoins North
+Africa!
+
+* If the Magician is being used, make sure you visit him whenever possible!
+
+
+
+
+
+                             14. Release History
+
+v3.0
+ * Computer Players GREATLY improved.
+ * Map upgraded.
+ * Number of Magician options doubled.
+ * More and new Sound Effects.
+ * Magician bug fixed.
+ * Redeployment/Attack bug fixed.
+ * Sprites added (IBM version).
+ * Algorithms optimised greatly.
+ * Speed dramatically increased.
+
+v2.01
+ * Small bugs removed.
+ * A number of minor features added.
+
+v2.0
+ * Rapid Computer Player mode added.
+ * Computer players can now roll dice in slow battle mode
+ * Computer player's high scores are no longer recorded in the High Score
+    Table
+ * Background music added (Amiga version only)
+ * Interface Mark II used throughout => More buttons and greater ease of use
+
+v1.0
+ Initial release
+
+
+
+
+                          **************************
+                          **                      **
+                          ** 15. SHAREWARE NOTICE **
+                          **                      **
+                          **************************
+
+Riskoid is a Shareware product.  That is, if you like the program and continue
+to use it after a trial period of 2 weeks, you are required to become a
+registered user, or stop using the program.  Otherwise, I'll get upset.
+
+If you register, you will receive any future upgrades or bug fixes, as well as
+our next game free!  (Whether you want it or not :) )
+
+Versions of the game are also available on other platforms.  Currently,
+Riskoid is available for the Amiga and IBM compatible with a UN*X X-Term
+version planned.  These are also available when you become a registered user.
+
+A fee of $10 (Australian Dollars) is requested for Australian users, $15 for
+the rest of the world.
+
+Send your registration fee and suggestions to :
+
+            Macrohead and Microbrain
+            4 Jameson Avenue
+            East Ballina NSW 2478
+            AUSTRALIA
+
+E-Mail Address : mhead_mbrain@hotmail.com
+
+
+When registering, please print out the form below and send it with your cash.
+
+
+
+-----------------------------------CUT HERE-----------------------------------
+
+                            RISKOID Registry Form
+                           -----------------------
+
+Name :________________________________________________________________________
+
+Address : ____________________________________________________________________
+
+______________________________________________________________________________
+
+______________________________________________________________________________
+
+
+What is the Current Version Number that you have :____________________________
+
+What is the Current Release Number that you have :____________________________
+
+(These numbers are displayed at the end of the Game.)
+
+
+Current Computer Type (Circle One) :     AMIGA      IBM
+
+
+         Please fill in the following information, where appropriate.
+
+           AMIGA                                       IBM
+          -------                                     -----
+
+Model Number      :_____________________  Processor     :_____________________
+
+Workbench Version :_____________________  Graphics Card :_____________________
+
+Kickstart Number  :_____________________  Sound Card    :_____________________
+
+Chipset           :_____________________  Mouse Type    :_____________________
+
+Joystick Type     :_____________________  Joystick Type :_____________________
+
+Monitor Type      :_____________________  DOS Version   :_____________________
+
+
+Do you require a version of RISKOID for another Platform?  If so, which
+
+Platform (Circle One)  :  AMIGA     IBM     OTHER : (State Type)______________
+
+
+Comments/Suggestions : _______________________________________________________
+
+______________________________________________________________________________
+
+______________________________________________________________________________
+
+______________________________________________________________________________
+
+______________________________________________________________________________
+
+
+
+Send this form, as well as your registration fee to:
+
+                           Macrohead and Microbrain
+                               4 Jameson Avenue
+                            East Ballina NSW 2478
+                                  AUSTRALIA
+
+-----------------------------------CUT HERE-----------------------------------
+
+
+
+
+
+
+                                   CREDITS
+                                  ---------
+Design             : Dean Morris
+Main Programming   : Dean Morris
+IBM Systems        : Grant Walker
+Graphics           : Dean Morris
+Sound Sources      : Nimrandir Enterprises
+Testing            : Kieren, Carl, Bradley, Paul, Michael, Ken, Glen.
+
+Special Thanks     : Roger the Inflatable Dolphin.
+
+
+
+
+                                 LEGAL STUFF
+                                -------------
+NO ATTEMPT IS MADE TO INTERFERE WITH ANY RIGHTS TO ANY OTHER SIMILAR PRODUCTS.
+ANY SUCH INFRINGEMENT IS TOTALLY ACCIDENTAL.
+
+THIS PRODUCT IS NOT PUBLIC DOMAIN.
+
+THE AUTHORS RETAIN ALL RIGHTS TO THE PRODUCT, (BOTH IN ITS ENTERITY AND ITS
+CONSTITUENT PARTS), BUT IT MAY BE FREELY DISTRIBUTED, PROVIDED ALL THE FILES
+ARE KEPT TOGETHER IN AN UNALTERED STATE.  RISKOID MAY BECOME PART OF ANY
+PUBLIC DOMAIN LIBRARY PROVIDED THAT ONLY A NOMINAL FEE IS CHARGED TO COVER THE
+COST OF DISK COPYING.  ANY OTHER USE OF THE PRODUCT IS STRICTLY PROHIBITED
+WITHOUT EXPRESS PERMISSION FROM THE AUTHORS.  PERMISSION CAN BE SOUGHT TO VARY
+THESE TERMS BY APPLYING TO THE ABOVE ADDRESS.
+
+THE AUTHORS PROVIDE THE PROGRAM "AS IS" WITH NO EXPRESS OR IMPLIED WARRANTIES
+OR GUARANTEES (INCLUDING ALL STATUTORY PROVISIONS, COMMON LAW AND EQUITY).
+ANY DAMAGE THAT MAY OCCUR AS A RESULT OF USING THIS PROGRAM IS TOTALLY AT THE
+USER'S EXPENSE - THE USER ACCEPTS THIS RISK BY USING THIS PROGRAM.
+
+IN THE UNLIKELY EVENT OF LEGAL ACTION, ALL CLAIMS MUST BE MADE WITHIN THE
+ORIGINAL JURISDICTION OF THE HIGH COURT OF AUSTRALIA.  ALL OTHER ACTIONS ARE
+INVALID.
+
